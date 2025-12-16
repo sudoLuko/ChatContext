@@ -146,7 +146,7 @@ function dedupeTextBlocks(text) {
   const seen = new Set();
   const out = [];
 
-  // split on double newlines (your block separator)
+  // split on double newlines
   for (const block of text.split(/\n\s*\n/)) {
     const normalized = block
       .replace(/\s+/g, " ")
