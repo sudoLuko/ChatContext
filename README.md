@@ -22,3 +22,4 @@ Chrome-based extension that grabs the current ChatGPT thread, builds a clean tra
 - HTML parsing is intentionally minimal; it targets the ChatGPT UI structure.
 - Transcript is plain text with roles; JSON preserves tables when present.
 - This extension relies on the current ChatGPT page structure and may require updates if the site changes.
+- Currently only supports exporting from ChatGPT to paste into other LLMs; it will not work on Gemini, Grok, Claude, etc. Future improvements are planned—help is welcome.
