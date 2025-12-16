@@ -15,7 +15,6 @@ This extension runs entirely in your browser. It does not collect, transmit, or 
 
 ## Permissions rationale
 - `activeTab`: needed to read the active ChatGPT tab when you click the popup.
-- `storage`: reserved for potential lightweight settings; not used for conversation content.
 - `clipboardWrite`: used to copy the transcript to your clipboard when requested.
 
 ## Contact
