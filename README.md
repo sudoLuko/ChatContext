@@ -25,6 +25,7 @@ Chrome-based extension that grabs the current ChatGPT thread, builds a clean tra
 ## Install (unpacked)
 - `chrome://extensions` → enable Developer Mode.
 - Load unpacked → select this folder.
+- Submitted to the Chrome Web Store; a published download should be available soon.
 
 ## Use
 - Open a ChatGPT conversation (chat.openai.com or chatgpt.com).
