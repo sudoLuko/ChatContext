@@ -2,7 +2,7 @@
 
 Chrome-based extension that grabs the current ChatGPT thread, builds a clean transcript for pasting into other LLMs, and lets you copy or save the raw JSON export.
 
-<h3 align="left">Examples</h3>
+<h3 align="left">After Context Message</h3>
 
 <p align="center">
   <table>
